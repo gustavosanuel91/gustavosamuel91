@@ -51,12 +51,18 @@ Atualmente cursando o 1º período de **Inteligência Artificial no SENAI FATESG
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&color=00F2FF&width=400&lines=💻+Tecnologias+e+Ferramentas">
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&color=00F2FF&width=400&lines=💻+Tecnologias+e+Ferramentas">
+  
+  <br><br>
+
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40" /><br><sub><b>Python</b></u></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40" /><br><sub><b>Git</b></u></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40" /><br><sub><b>GitHub</b></u></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40" /><br><sub><b>VS Code</b></u></td>
+  </table>
 </div>
 
 ---
