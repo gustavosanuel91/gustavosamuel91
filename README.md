@@ -1,25 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000814&secondaryColor=00F2FF&height=220&section=header&text=GUSTAVO%20SAMUEL&fontSize=80&animation=fadeIn&fontColor=00F2FF&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000814&secondaryColor=00F2FF&height=150&section=header&text=GUSTAVO%20SAMUEL&fontSize=70&animation=twinkling&fontColor=00F2FF&fontAlignY=50" width="100%" />
 
   <br>
 
-  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE_ENGINEER-00F2FF?style=for-the-badge&logo=cpu&logoColor=black" />
-
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=%E2%9E%A3+Neural+Networks;%E2%9E%A3+Machine+Learning;%E2%9E%A3+Python+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=%E2%9E%A3+Neural+Networks;%E2%9E%A3+Machine+Learning;%E2%9E%A3+Python+Expert" alt="Typing SVG" />
 
   <br>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" height="2px" />
-
-  <br><br>
-
-  <p>
-    <code><b>LOC:</b> BRAZIL 🇧🇷</code> | 
-    <code><b>LEVEL:</b> 1st PERIOD</code> | 
-    <code><b>MODE:</b> CODING_NIGHT</code>
-  </p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%" height="2px" />
 </div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Estudante+de+Inteligência+Artificial;Desenvolvedor+em+Formação" alt="Typing SVG" />
 </div>
