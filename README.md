@@ -16,7 +16,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" /> 🎓 Formação & Paixão
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" /> 🎓 Formação
 Atualmente cursando o 1º período de **Inteligência Artificial no SENAI FATESG** (período noturno). Sou apaixonado por tecnologia, dados e como a IA pode transformar o cotidiano das pessoas.
 
 ---
