@@ -17,12 +17,12 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25" /> 🎓 Formação
-Atualmente cursando o 1º período de **Inteligência Artificial no SENAI FATESG** (período noturno). Sou apaixonado por tecnologia, dados e como a IA pode transformar o cotidiano das pessoas.
+Atualmente cursando o 1º período de **Inteligência Artificial no SENAI FATESG** (período noturno).
 
 ---
 
 ## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&color=00F2FF&width=400&lines=🛠️+No+que+estou+trabalhando?">
-* 📚 **Estudos:** Estudando Python, Lógica de Programação e os fundamentos de Machine Learning.
+* 📚 **Estudos:** Estudando Python, Lógica de Programação e Estrutura de Dados.
 * 🌱 **Objetivo:** Atuar como desenvolvedor trainee/estagiário, aplicando fundamentos de **Python** e **Inteligência Artificial** para otimizar processos e criar soluções orientadas a dados. Busco contribuir com proatividade em times ágeis, transformando desafios técnicos em resultados práticos para o negócio.
   
 ---
